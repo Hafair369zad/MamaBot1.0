@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "807331863603",
+    "project_id": "mamabot-4eba5",
+    "storage_bucket": "mamabot-4eba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807331863603:android:24864de9fb9a5e040b1746",
+        "android_client_info": {
+          "package_name": "com.example.trestapkmamabot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807331863603-icivlgtem7fgjdohniu8tl516hfgi77m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhMev_PzygQtf71x4wk5RtHpsoHRKKDpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807331863603-icivlgtem7fgjdohniu8tl516hfgi77m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "807331863603-g2k9ljs1jgdgr66p1iivcqr4e757v2kr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trestapkmamabot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

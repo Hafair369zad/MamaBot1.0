@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mamabot-ytdt",
+  "private_key_id": "0108e8ebfd95c79f0dffc5511b28f247a488e889",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDk2wmUk5STQkWQ\nXoxcc+jfzVzL6aqI6Mj0Kqtu1XGsfxDjwe0TuhgauNXbIAWGrlDkCcrzC9P7LAdL\nfbkqWVi9DFK0aNXvIsMGZkKLEXadpaOgN8FyI4jgKQXfAaN2+h2FBJ3cPqTh+xW9\nstzvmYAdxZQ5FkFqfC5pTitnKjHNBphwUQsJhysjmL/dUKzWuUiQwKt/+5MKgXUy\nMPiJbdzwDJsE2n+/p/515o5E91uKUrg7N92Cwc//F0PvUzfKno486n86m41QcvLY\nt+2lz6eJoFPY9Z+RW6nNdY3FwsNso13ZZy7iwfCBB+gU5ti1/0cdX+dvGPO+7gXq\nTcaQXxyFAgMBAAECggEAHvk4MDgocnpp231jENDih9u4VKQg37EQdYoK3rrGTPAm\nSIpYEa9CO5JK5gJ3olVC/xdbijkjwl7188p7E5djvQkHGSyxJlGK7071cEiiSE7W\njkTNioBIXPz1svYlT2Elj/m30HWtWiUMjw/p+rGd7H7vrdRBxpgyWIVAYZDijEVi\njUgWPMxAoMfGMgrG/B2KOI3DkIns4mxP9f0/+mYF443sY0Vo4z8g08keLZ2lAayl\nzkYzU44tR8es1efI7ZfzgklFq88htOO5f4jWPdYcf01kV4LKhH4iOyx+iW2U91Gl\nX4pX78tbpLAep+SZMFpf+CraAPDCwYNj9QLKwLzoRwKBgQD2RGERU8QPkmZLVnrS\nLhqGHFfoRresNsf/UZi5K0uVNOSGg1mkAldaK7oRaKXvxmA7eRZ1Ha17eAustYe8\n/ZmYvVIglUle7ZVCfyFkwDRbaPQVFLQpupVHzbK+jKTVMoL4M9WwKF0dYibUbGXE\ncmPxOYU9pI46LV7Ir2uuo4it/wKBgQDt5n8dhq8UZhvwVcLn0Wa5Y68oeNavjSMW\nsRivDdcTvS6sAX9Gp1/tQoWsBhdSwwdf0SI4/wsAv2AUnSS/3HgBFtewZ4EsNN3v\n+5+TMhIfJ1kSGw3PqJY17/ZTnpxvamjDPYx4Cue4SsykbJgUZ61upcNUCzMEgV5c\nyduSm0J9ewKBgDKErHTlfh7DpYBm6SMcmgxQ3Cel+h+1zSkvD+lMXGDrTMXbRBRE\n9q5ksfLISOH7C9qnaFf2EpR1d8+iHYpDa7LNg39zoG18x1WwxqToWNU3nnqEmMDG\nqcDlDXnRWC70AbHw0DEm1pMkg1qoMegunxno9tBCZXrBu+PnOGvG2E75AoGAeZZf\ni2ClpMBXMSsz1TUx0jh/cijoWIrCzzsuCXICZaU/8EtHmH28yk9AcF4gl3z0DOWf\nHxBCuFwXKBH0kVaFwtDA5fjQjR5r+9ZXhWyG1INQw68uDN71/pUpCS28eDkjV/3i\nCAxSx9763mJeC7e9bRqtTQv4RCo2ZygH39MYVXcCgYAMQ1FexooJRHAbF6nfIZps\nQYOZmtCLkMU1pSXD1+xupKn+ZWD6qvMPkGPn71qJn7dai5pTd0WbR597cWF/kPQz\nOfjoxzzf1E5F02Z0sLE+bpcPTjhOwkhBhTU0DCJUmekTJfrwgSJ1RHHcvr7Ob292\nY2bsJRd9Y0bt2H5D1DiTfA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mamabot21@mamabot-ytdt.iam.gserviceaccount.com",
+  "client_id": "106692556640695526031",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mamabot21%40mamabot-ytdt.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
